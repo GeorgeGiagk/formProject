@@ -9,7 +9,7 @@ A simple form example with design using css only and custom validation system wi
 
 ---
 
-<img src="https://user-images.githubusercontent.com/97463548/151405422-3913dd8c-2123-4212-849e-d717e0b5d7ae.png" width="800" height="600" />
+<img src="https://user-images.githubusercontent.com/97463548/151405422-3913dd8c-2123-4212-849e-d717e0b5d7ae.png" width="800" height="500" />
 
 
 
