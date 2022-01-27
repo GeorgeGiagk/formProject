@@ -1,4 +1,4 @@
-A simple form example with custom validation system.
+A simple form example with design using css only and custom validation system with js.
 
 ## Libraries
 
